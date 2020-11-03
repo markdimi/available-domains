@@ -1,5 +1,4 @@
 baseURL                          = "http://podspace.gr"  # Your domain name. Must end with "/"
-theme                            = "hallo"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 title = "This domain is available"
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
